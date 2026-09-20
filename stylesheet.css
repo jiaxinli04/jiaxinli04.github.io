@@ -105,8 +105,9 @@ h2 {
 .name {
   padding-top: 20px;
   margin: 0;
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: Georgia, 'Times New Roman', 'Songti SC', STSong, SimSun, serif;
   font-size: 32px;
+  word-break: keep-all;
 }
 
 .one {
